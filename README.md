@@ -4,7 +4,7 @@
 
 1. Create an environment
 
-bash'''
+'''bash
 conda create -n envname python=3.10 -y
 
 conda activate envname
